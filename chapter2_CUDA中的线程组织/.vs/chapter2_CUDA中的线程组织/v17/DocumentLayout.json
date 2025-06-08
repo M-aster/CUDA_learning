@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello2.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hello2.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello4.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hello4.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hello1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello3.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hello3.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hello3.cu",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello3.cu",
+              "RelativeDocumentMoniker": "hello3.cu",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello3.cu",
+              "RelativeToolTip": "hello3.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T05:11:46.384Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hello4.cu",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello4.cu",
+              "RelativeDocumentMoniker": "hello4.cu",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello4.cu",
+              "RelativeToolTip": "hello4.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T05:12:15.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\Makefile",
+              "RelativeDocumentMoniker": "Makefile",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\Makefile",
+              "RelativeToolTip": "Makefile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T05:12:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hello1.cpp",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello1.cpp",
+              "RelativeDocumentMoniker": "hello1.cpp",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello1.cpp",
+              "RelativeToolTip": "hello1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T05:11:47.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello2.cu",
+              "DocumentMoniker": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello2.cu",
+              "RelativeDocumentMoniker": "hello2.cu",
+              "ToolTip": "C:\\Users\\Lin\\Desktop\\CUDA_Programming-master\\CUDA\\chapter2_CUDA\u4E2D\u7684\u7EBF\u7A0B\u7EC4\u7EC7\\hello2.cu",
+              "RelativeToolTip": "hello2.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-21T05:11:44.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
